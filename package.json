@@ -10,7 +10,9 @@
     "start": "parcel index.html"
   },
   "dependencies": {
+    "atob": "^2.1.2",
     "autoprefixer": "^9.4.7",
+    "macaddress": "^0.2.9",
     "node-sass": "^4.7.2",
     "parcel-bundler": "^1.6.2",
     "sshpk": "^1.16.1"
