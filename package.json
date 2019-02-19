@@ -10,8 +10,9 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "autoprefixer": "^8.0.0",
+    "autoprefixer": "^9.4.7",
     "node-sass": "^4.7.2",
-    "parcel-bundler": "^1.6.2"
+    "parcel-bundler": "^1.6.2",
+    "sshpk": "^1.16.1"
   }
 }
